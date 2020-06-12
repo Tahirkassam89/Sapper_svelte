@@ -52,7 +52,7 @@
 <h1>Tahir Kassam</h1>
 
 <figure>
-	<img alt='Success' src='successkid_rs40d5.webp'>
+	<img alt='Tahir' src='mor_opu3ss.webp'>
 	<figcaption>Have fun with my site</figcaption>
 </figure>
 
