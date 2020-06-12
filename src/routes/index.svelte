@@ -46,14 +46,14 @@
     name="description"
     content="Welcome to The T-SPA" />
 
-	<title>The T-SPA</title>
+	<title>Tahir</title>
 </svelte:head>
 
-<h1>the T-SPA</h1>
+<h1>Tahir Kassam</h1>
 
 <figure>
 	<img alt='Success' src='successkid_rs40d5.webp'>
-	<figcaption>Have fun with the T-SPA</figcaption>
+	<figcaption>Have fun with my site</figcaption>
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
